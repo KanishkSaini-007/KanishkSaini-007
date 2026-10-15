@@ -143,7 +143,12 @@ Numbers are checked and refreshed by hand as I ship.
 <p><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
 <p><a href="https://kanishksaini-007.github.io/portfolio/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/portfolio">View repo</a></p>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<h3><a href="https://kanishksaini-007.github.io/Corporate-Intelligence-Lab/">Corporate Intelligence Lab</a></h3>
+<p>Financial ratio and distress analysis of 11 public companies from their 10-K filings, with an Altman Z-score and what-if stress tests.</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"></p>
+<p><a href="https://kanishksaini-007.github.io/Corporate-Intelligence-Lab/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/Corporate-Intelligence-Lab">View repo</a></p>
+</td>
 </tr>
 </table>
 
