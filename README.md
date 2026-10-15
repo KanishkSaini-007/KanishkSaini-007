@@ -69,9 +69,9 @@ Numbers are checked and refreshed by hand as I ship.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake.svg">
-    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake.svg?v=2">
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake-dark.svg?v=2" width="100%">
   </picture>
 </div>
 
