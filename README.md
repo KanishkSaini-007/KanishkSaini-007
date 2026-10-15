@@ -16,6 +16,7 @@ Everything below runs in the browser, needs no login, and keeps your data on you
 | **TypeSpeed** | Typing test with live WPM, accuracy and progress graphs. | [Live](https://kanishksaini-007.github.io/TypeSpeed/) · [Code](https://github.com/KanishkSaini-007/TypeSpeed) |
 | **HabitGrid** | Habit tracker with a yearly contribution grid, streaks and keyboard shortcuts. | [Live](https://kanishksaini-007.github.io/HabitGrid/) · [Code](https://github.com/KanishkSaini-007/HabitGrid) |
 | **Flutter_Application_01** | My first Flutter app: a responsive glass-style profile page. | [Live](https://kanishksaini-007.github.io/Flutter_Application_01/) · [Code](https://github.com/KanishkSaini-007/Flutter_Application_01) |
+| **Portfolio** | My 3D interactive portfolio site that pulls everything together. | [Live](https://kanishksaini-007.github.io/portfolio/) · [Code](https://github.com/KanishkSaini-007/portfolio) |
 
 ## Tech
 
@@ -34,5 +35,6 @@ Everything below runs in the browser, needs no login, and keeps your data on you
 
 ## Contact
 
+- Portfolio: [kanishksaini-007.github.io/portfolio](https://kanishksaini-007.github.io/portfolio/)
 - Email: [its.kanishk.saini@gmail.com](mailto:its.kanishk.saini@gmail.com)
 - LinkedIn: [itskanishksaini](https://www.linkedin.com/in/itskanishksaini/)
