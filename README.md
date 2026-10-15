@@ -55,7 +55,7 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 
 ## GitHub Stats
 
-| | |
+| Stat | Now |
 | --- | --- |
 | Public repos | 11 |
 | Live sites | 9 (8 apps + portfolio) |
