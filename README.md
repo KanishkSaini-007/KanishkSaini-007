@@ -65,6 +65,18 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 
 Numbers are checked and refreshed by hand as I ship.
 
+## My Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake.svg">
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<p align="center"><sub>Auto-generated from my contribution graph every 12 hours. Each green square is something I built or fixed while learning.</sub></p>
+
 ## Featured Projects
 
 <table>
