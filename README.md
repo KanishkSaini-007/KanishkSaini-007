@@ -35,4 +35,4 @@ Everything below runs in the browser, needs no login, and keeps your data on you
 ## Contact
 
 - Email: [its.kanishk.saini@gmail.com](mailto:its.kanishk.saini@gmail.com)
-- LinkedIn: [kanishk-saini](https://www.linkedin.com/in/kanishk-saini-272851422/)
+- LinkedIn: [itskanishksaini](https://www.linkedin.com/in/itskanishksaini/)
