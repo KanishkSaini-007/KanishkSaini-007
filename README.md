@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="Kanishk Saini, building things that fix real annoyances" width="100%">
 
-<h3>First-year MBA Tech student &nbsp;|&nbsp; Small web apps &nbsp;|&nbsp; Learning in public</h3>
+<h3>First-year MBA Tech student &nbsp;|&nbsp; Learning to build &nbsp;|&nbsp; Sharing it as I go</h3>
 
 <a href="https://kanishksaini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
 <a href="https://www.linkedin.com/in/itskanishksaini/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0a0f0a" alt="LINKEDIN"></a>
@@ -17,13 +17,14 @@ const kanishk = {
   location:    "Mumbai, India",
   education:   "MBA Tech @ NMIMS Mumbai (first year)",
   focus:       ["Small web apps", "Local-first tools", "Learning Flutter and C"],
-  stack:       ["HTML", "CSS", "JavaScript", "Flutter", "C", "Git"],
-  currentlyOn: "Shipping something small, often. Still learning.",
+  learning:    ["HTML", "CSS", "JavaScript", "Flutter", "C", "Git"],
+  level:       "Beginner. Everything here is me learning by building.",
+  currentlyOn: "Building small things and getting a bit better each day.",
   funFact:     "I am trying to keep my GitHub graph green every single day.",
 };
 ```
 
-I build small tools that fix an annoyance I actually have: attendance math, grade targets, splitting bills, staying focused. Everything runs in the browser, needs no login, and keeps your data on your own device.
+I am new to all of this and I am learning by building small tools that fix an annoyance I actually have: attendance math, grade targets, splitting bills, staying focused. Everything runs in the browser, needs no login, and keeps your data on your own device. Some of it is rough, and I am improving it a little each day.
 
 ## Fun Stats
 
@@ -36,19 +37,19 @@ I build small tools that fix an annoyance I actually have: attendance math, grad
 </tr>
 </table>
 
-## Tech Stack
+## What I'm Learning
 
-I am a beginner, so I have split this by how far along I am.
+I am a beginner, so this is split by how far along I am. None of it is mastered yet.
 
-**Building with regularly**
+**Learning by building every day**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
 
-**Just getting started**
+**Just getting started (first steps)**
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
 
-**Tools**
+**Tools I am getting used to**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
 
