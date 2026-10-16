@@ -30,9 +30,9 @@ I am new to all of this and I am learning by building small tools that fix an an
 
 <table align="center">
 <tr>
-<td align="center"><b>8</b><br>apps live</td>
-<td align="center"><b>11</b><br>public repos</td>
-<td align="center"><b>128</b><br>commits so far</td>
+<td align="center"><b>10</b><br>apps live</td>
+<td align="center"><b>12</b><br>public repos</td>
+<td align="center"><b>150+</b><br>commits so far</td>
 <td align="center"><b>Oct 2026</b><br>started building in public</td>
 </tr>
 </table>
@@ -57,9 +57,9 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 
 | Stat | Now |
 | --- | --- |
-| Public repos | 11 |
-| Live sites | 9 (8 apps + portfolio) |
-| Commits | 128 |
+| Public repos | 12 |
+| Live sites | 11 (10 apps + portfolio) |
+| Commits | 150+ |
 | Main languages | JavaScript, HTML, CSS, Dart |
 | On GitHub since | October 2026 |
 
@@ -149,6 +149,15 @@ Numbers are checked and refreshed by hand as I ship.
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"></p>
 <p><a href="https://kanishksaini-007.github.io/Corporate-Intelligence-Lab/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/Corporate-Intelligence-Lab">View repo</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://kanishksaini-007.github.io/DueSoon/">DueSoon</a></h3>
+<p>Deadline tracker that shows what is due next, with a live countdown.</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
+<p><a href="https://kanishksaini-007.github.io/DueSoon/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/DueSoon">View repo</a></p>
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
