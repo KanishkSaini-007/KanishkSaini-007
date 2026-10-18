@@ -172,10 +172,10 @@ Numbers are checked and refreshed by hand as I ship.
 <p><a href="https://kanishksaini-007.github.io/Ask-Kanishk/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/Ask-Kanishk">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/kanishk-city/">Kanishk City</a></h3>
+<h3><a href="https://kanishksaini-007.github.io/stark-sky/">Stark Sky</a></h3>
 <p>A 3D city you fly through with an armored hero. Every tower is one of my projects. A learning project.</p>
 <p><img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/kanishk-city/"><b>Play it</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/kanishk-city">View repo</a></p>
+<p><a href="https://kanishksaini-007.github.io/stark-sky/"><b>Play it</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/stark-sky">View repo</a></p>
 </td>
 </tr>
 </table>
