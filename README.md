@@ -30,7 +30,7 @@ I am new to all of this and I am learning by building small tools that fix an an
 
 <table align="center">
 <tr>
-<td align="center"><b>14</b><br>apps live</td>
+<td align="center"><b>13</b><br>apps live</td>
 <td align="center"><b>17</b><br>public repos</td>
 <td align="center"><b>250+</b><br>commits so far</td>
 <td align="center"><b>Oct 2026</b><br>started building in public</td>
@@ -58,7 +58,7 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 | Stat | Now |
 | --- | --- |
 | Public repos | 17 |
-| Live sites | 15 (14 apps + portfolio) |
+| Live sites | 14 (13 apps + portfolio) |
 | Commits | 250+ |
 | Main languages | JavaScript, HTML, CSS, Dart |
 | On GitHub since | October 2026 |
@@ -184,12 +184,6 @@ Numbers are checked and refreshed by hand as I ship.
 <p>Semester SGPA and CGPA planner with an editable grading scale and a target mode that works out the grades you need. Private, no login.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
 <p><a href="https://kanishksaini-007.github.io/CGPAPlanner/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/CGPAPlanner">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/Nature-Inspired-Data-Storage/">Nature-Inspired Storage</a></h3>
-<p>Two interactive labs: encode a message as DNA and recover it after copying errors, then evolve cargo plans with a genetic algorithm.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/Nature-Inspired-Data-Storage/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/Nature-Inspired-Data-Storage">View repo</a></p>
 </td>
 </tr>
 </table>
