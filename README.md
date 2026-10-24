@@ -30,8 +30,8 @@ I am new to all of this and I am learning by building small tools that fix an an
 
 <table align="center">
 <tr>
-<td align="center"><b>14</b><br>apps live</td>
-<td align="center"><b>18</b><br>public repos</td>
+<td align="center"><b>15</b><br>apps live</td>
+<td align="center"><b>19</b><br>public repos</td>
 <td align="center"><b>300+</b><br>commits so far</td>
 <td align="center"><b>Oct 2026</b><br>started building in public</td>
 </tr>
@@ -57,8 +57,8 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 
 | Stat | Now |
 | --- | --- |
-| Public repos | 18 |
-| Live sites | 15 (14 apps + portfolio) |
+| Public repos | 19 |
+| Live sites | 16 (15 apps + portfolio) |
 | Commits | 300+ |
 | Main languages | JavaScript, HTML, CSS, Dart |
 | On GitHub since | October 2026 |
