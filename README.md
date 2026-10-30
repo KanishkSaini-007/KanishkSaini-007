@@ -31,7 +31,7 @@ I am new to all of this and I am learning by building small tools that fix an an
 <table align="center">
 <tr>
 <td align="center"><b>16</b><br>apps live</td>
-<td align="center"><b>20</b><br>public repos</td>
+<td align="center"><b>22</b><br>public repos</td>
 <td align="center"><b>300+</b><br>commits so far</td>
 <td align="center"><b>Oct 2026</b><br>started building in public</td>
 </tr>
@@ -57,7 +57,7 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 
 | Stat | Now |
 | --- | --- |
-| Public repos | 20 |
+| Public repos | 22 |
 | Live sites | 17 (16 apps + portfolio) |
 | Commits | 300+ |
 | Main languages | JavaScript, HTML, CSS, Dart |
@@ -198,6 +198,12 @@ Numbers are checked and refreshed by hand as I ship.
 <p>A private allowance tracker: log expenses and it shows what you can safely spend each day so the money lasts the whole month. No login.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
 <p><a href="https://kanishksaini-007.github.io/SpendLeft/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/SpendLeft">View repo</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KanishkSaini-007/android-boot-log-analyzer">Android Boot Log Analyzer</a></h3>
+<p>A Python tool that reads Android boot logs (dmesg/logcat), classifies kernel, driver, firmware and SELinux errors, times boot stages, and writes HTML/JSON diagnostic reports. 30 tests, CI green.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></p>
+<p><a href="https://github.com/KanishkSaini-007/android-boot-log-analyzer"><b>View repo</b></a></p>
 </td>
 </tr>
 </table>
