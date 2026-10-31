@@ -30,7 +30,7 @@ I am new to all of this and I am learning by building small tools that fix an an
 
 <table align="center">
 <tr>
-<td align="center"><b>17</b><br>apps live</td>
+<td align="center"><b>18</b><br>apps live</td>
 <td align="center"><b>22</b><br>public repos</td>
 <td align="center"><b>300+</b><br>commits so far</td>
 <td align="center"><b>Oct 2026</b><br>started building in public</td>
@@ -58,7 +58,7 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 | Stat | Now |
 | --- | --- |
 | Public repos | 22 |
-| Live sites | 18 (17 apps + portfolio) |
+| Live sites | 19 (18 apps + portfolio) |
 | Commits | 300+ |
 | Main languages | JavaScript, HTML, CSS, Dart |
 | On GitHub since | October 2026 |
@@ -204,6 +204,14 @@ Numbers are checked and refreshed by hand as I ship.
 <p>A Python tool that reads Android boot logs (dmesg/logcat), classifies kernel, driver, firmware and SELinux errors, and times boot stages. On the web: analyze or compare your own logs in the browser and download HTML/JSON reports. 30 tests, CI green.</p>
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></p>
 <p><a href="https://kanishksaini-007.github.io/android-boot-log-analyzer/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/android-boot-log-analyzer">View repo</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://kanishksaini-007.github.io/FlashFormula/">FlashFormula</a></h3>
+<p>Formula flashcards for first-year physics, math and chemistry. Flip a card, mark what you know, add your own formulas. No login, progress stays in your browser.</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
+<p><a href="https://kanishksaini-007.github.io/FlashFormula/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/FlashFormula">View repo</a></p>
 </td>
 </tr>
 </table>
