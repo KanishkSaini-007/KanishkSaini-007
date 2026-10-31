@@ -201,7 +201,7 @@ Numbers are checked and refreshed by hand as I ship.
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/KanishkSaini-007/android-boot-log-analyzer">Android Boot Log Analyzer</a></h3>
-<p>A Python tool that reads Android boot logs (dmesg/logcat), classifies kernel, driver, firmware and SELinux errors, times boot stages, and writes HTML/JSON diagnostic reports. 30 tests, CI green.</p>
+<p>A Python tool that reads Android boot logs (dmesg/logcat), classifies kernel, driver, firmware and SELinux errors, and times boot stages. On the web: analyze or compare your own logs in the browser and download HTML/JSON reports. 30 tests, CI green.</p>
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></p>
 <p><a href="https://kanishksaini-007.github.io/android-boot-log-analyzer/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/android-boot-log-analyzer">View repo</a></p>
 </td>
